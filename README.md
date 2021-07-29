@@ -1,2 +1,0 @@
-# show_wifi_history_password
-windows电脑查看全部连接过的WiFi密码
